@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"ten-pair-hand"
+			],
+			[
+				"ten",
+				"ten-high-hand"
+			],
+			[
+				"ha",
+				"hand1"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"jack",
+				"three-jack-hand"
+			],
+			[
+				"ja",
+				"jack-pair-hand"
+			],
+			[
+				"pair",
+				"pair-hand"
+			],
+			[
+				"hi",
+				"highest-2"
+			],
+			[
+				"high",
+				"highest-card"
+			],
+			[
+				"card",
+				"cardrank"
+			],
+			[
+				"rank",
+				"rankmap"
+			],
+			[
+				"r",
+				"rankpart"
+			],
+			[
+				"assig",
+				"assignment"
+			],
+			[
+				"as",
+				"assignmentsByProjectWithMoreThanOneConsultant"
+			],
+			[
+				"ass",
+				"assignment"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"all",
+				"allProjects"
+			],
+			[
+				"cons",
+				"consultantId"
+			],
+			[
+				"co",
+				"consultantsProcessed"
+			],
+			[
+				"title",
+				"titlePrefix"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"consul",
+				"consultant"
+			],
+			[
+				"con",
+				"consultant"
+			],
+			[
+				"pr",
+				"processAssignment"
+			],
+			[
+				"jigsaw",
+				"jigsawFrame"
+			],
+			[
+				"jig",
+				"jigsawBody"
+			],
+			[
+				"a",
+				"allAssignments"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fi",
+				"firstTimePoint"
+			],
+			[
+				"time",
+				"timepoint"
+			],
+			[
+				"pro",
+				"project"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core.clj",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Clojure Test.sublime-build",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				":Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ThoughtWorks/Documents/TorontoCodingDojo/PokerHands/test/PokerHands/core_test.clj",
+		"/Users/ThoughtWorks/aft/readme.txt",
+		"/Users/ThoughtWorks/PokerThingy/test/PokerThingy/core_test.clj",
+		"/Users/ThoughtWorks/PokerThingy/src/PokerThingy/core.clj",
+		"/Users/ThoughtWorks/TomPoker/src/TomPoker/core.clj",
+		"/Users/ThoughtWorks/TomPoker/test/TomPoker/core_test.clj",
+		"/Users/ThoughtWorks/TomPoker/project.clj",
+		"/Users/ThoughtWorks/.lein/profiles.clj",
+		"/Users/ThoughtWorks/TomPoker/README.md",
+		"/Users/ThoughtWorks/Library/Application Support/Sublime Text 2/Packages/User/Clojure.sublime-settings",
+		"/Users/ThoughtWorks/Library/Application Support/Sublime Text 2/Packages/Clojure/Clojure.tmLanguage",
+		"/Users/ThoughtWorks/Library/Application Support/Sublime Text 2/Packages/User/Clojure Test.sublime-build",
+		"/Users/ThoughtWorks/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ThoughtWorks/TomPokerHands/src/TomPokerHands/core.clj",
+		"/Users/ThoughtWorks/TomPokerHands/test/TomPokerHands/core_test.clj",
+		"/Users/ThoughtWorks/Library/Application Support/Sublime Text 2/Packages/User/Clojure.sublime-build",
+		"/Users/ThoughtWorks/aft/thoughtworks/hq/WEB-INF/package.xml",
+		"/Users/ThoughtWorks/aft/thoughtworks/hq/index.sjs",
+		"/Users/ThoughtWorks/aft/thoughtworks/hq/other.sjs",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/common/service.sjs",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/common/api.sjs",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/common/utils.sjs",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/index.sjs",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/post.html",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/common/dataProcessor.sjs",
+		"/Users/ThoughtWorks/Desktop/AFTSalsaService_Code/aft_importer/public/index.sjs",
+		"/consultantInteractions/static.html",
+		"/consultantInteractions/jigsawdata.html",
+		"/consultantInteractions/jigsaw.js",
+		"/consultantInteractions/interactions.js",
+		"/consultantInteractions/d3.v2.js",
+		"/consultantInteractions/index.html",
+		"/Users/ThoughtWorks/Documents/consultantInteractions/index.html",
+		"/Users/ThoughtWorks/Documents/consultantInteractions/d3.v2.js",
+		"/Users/ThoughtWorks/Documents/consultantInteractions/interactions.js",
+		"/Users/ThoughtWorks/Documents/consultantInteractions/interactions.css",
+		"/Users/ThoughtWorks/Documents/consultantInteractions/pjax.js",
+		"/Users/ThoughtWorks/Documents/resource-chart/index.html",
+		"/Users/ThoughtWorks/thingy/src/sankey.html",
+		"/Users/ThoughtWorks/thingy/src/sankey.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test2",
+			"new",
+			"keyword",
+			"aft",
+			"each",
+			"projects",
+			"x.map",
+			"x(",
+			"name",
+			"timelineFromAssignments",
+			"Consultants",
+			"names",
+			"flat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core.clj",
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 176.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
